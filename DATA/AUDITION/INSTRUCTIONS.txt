@@ -1,0 +1,31 @@
+
+Welcome!!
+
+Your objective is to create predictive models for a set of output variables,
+(dependent vars), provided a set of input variables (independent vars).
+
+Included in this file is a TRAIN data set and a TEST data set.
+The TRAIN data set includes instance records of both the input and output
+variables, while the Test set only provides data on the input variables.
+The TRAIN set and the TEST set each consist of 5,000 instances.
+
+Each record has an 'ID' variable which is not factored into any of the models.
+The input variables are  [A,B,C,D,E,F,G,H,I,J]
+The output variables are [W,X,Y,Z]
+
+You will build your models on the TRAIN data set, and then apply your models
+to the TEST data set to generate your predicted values for each output.
+
+You will then submit a CSV file that contains your predictions for the
+output variables that you are asked to model.
+
+You will be judged on the final R-Squared of your predicted values vs.
+the actual values for the data set.
+
+Good Luck!!
+(Although, in reality, luck will not help you.)
+
+Sincerely,
+
+The Contemporary Analysis Team
+
